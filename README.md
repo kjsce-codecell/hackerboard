@@ -128,7 +128,7 @@
 
 ## Hardware
 
-- Arduino [1](http://www.jeremyblum.com/category/arduino-tutorials/) |  [2](https://www.arduino.cc/)
+- Arduino [1](http://www.jeremyblum.com/category/arduino-tutorials/) [2](https://www.arduino.cc/)
 - [Raspberry Pi](https://www.raspberrypi.org/learning/hardware-guide/)
 - [Sensors](https://tkkrlab.nl/wiki/Arduino_37_sensors)
 - [Node MCU](http://nodemcu.com/index_en.html)
