@@ -47,10 +47,10 @@
 
 #### Web-Development
 
-- Learn HTML CSS JS PHP [1](https://www.w3schools.com) [2](www.freecodecamp.org)
+- Learn HTML CSS JS PHP [1](https://www.w3schools.com) [2](https://www.freecodecamp.org)
 - [Browser-Testing](https://browsersync.io)
 - [Web Server](http://fenixwebserver.com)
-- [Templates](www.codepen.io)
+- [Templates](https://www.codepen.io)
 
 
 #### Web-Development-Tools
@@ -109,7 +109,7 @@
 - [DigitalOcean](https://www.digitalocean.com)
 - [Github-Pages](https://pages.github.com)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Surge](www.surge.sh)
+- [Surge](https://surge.sh/)
 
 
 #### Version-control
