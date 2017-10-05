@@ -2,7 +2,7 @@
 
 > This list contains resources that help a "hacker" build stuff with ease and in an efficent way .
 
-https://education.github.com/pack
+[Github Student Developer Pack](https://education.github.com/pack)
 
 ## Contents
 * [Software](#Software)
@@ -47,7 +47,7 @@ https://education.github.com/pack
 
 #### Web-Development
 
-- Learn HTML | CSS | JS | PHP [1](https://www.w3schools.com) [2](www.freecodecamp.org)
+- Learn HTML CSS JS PHP [1](https://www.w3schools.com) [2](www.freecodecamp.org)
 - [Browser-Testing](https://browsersync.io)
 - [Web Server](http://fenixwebserver.com)
 - [Templates](www.codepen.io)
@@ -55,7 +55,7 @@ https://education.github.com/pack
 
 #### Web-Development-Tools
 
-- Validator  [1](https://validator.w3.org/) | [2](http://wave.webaim.org)
+- Validator [1](https://validator.w3.org/)  [2](http://wave.webaim.org)
 - [Responiveness](http://www.responsinator.com)
 
 
@@ -90,7 +90,7 @@ https://education.github.com/pack
 - [OpenCV](http://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
 - [IBM Watson](https://www.ibm.com/watson/)
 - [Microsoft Azure](https://azure.microsoft.com/en-in/services/machine-learning-studio/)
-- [YouTube | Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [YouTube - Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [Google Developers Playlist](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [CS50 - ML](https://www.youtube.com/watch?v=dgt6IfEXgDk)
 
@@ -114,8 +114,8 @@ https://education.github.com/pack
 
 #### Version-control
 
-- [Github | Learn to use Git](https://www.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html)
-- [BitBucket | Learn to use BitBucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Github - Learn to use Git](https://www.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html)
+- [BitBucket - Learn to use BitBucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 
 #### Text-Editors
@@ -123,12 +123,12 @@ https://education.github.com/pack
 - [Sublime Text](https://www.sublimetext.com)
 - [Atom](https://atom.io)
 - [Emacs](https://www.gnu.org/software/emacs/)
-- [Vim | Basic Usage](https://www.acehack.org/2015/06/vim/)
+- [Vim - Basic Usage](https://www.acehack.org/2015/06/vim/)
 
 
 ## Hardware
 
-- Arduino [1](http://www.jeremyblum.com/category/arduino-tutorials/) |  [2](https://www.arduino.cc/)
+- Arduino [1](http://www.jeremyblum.com/category/arduino-tutorials/) [2](https://www.arduino.cc/)
 - [Raspberry Pi](https://www.raspberrypi.org/learning/hardware-guide/)
 - [Sensors](https://tkkrlab.nl/wiki/Arduino_37_sensors)
 - [Node MCU](http://nodemcu.com/index_en.html)
@@ -137,8 +137,8 @@ https://education.github.com/pack
 
 #### Miscellaneous
 
-- [Awesome | A Bunch of Learning resources in a single list](https://github.com/sindresorhus/awesome)
-- [Learn-Anything.xyz | Mind-Maps](https://learn-anything.xyz/)
+- [Awesome - A Bunch of Learning resources in a single list](https://github.com/sindresorhus/awesome)
+- [Learn-Anything.xyz - Mind-Maps](https://learn-anything.xyz/)
 - [Amazon Alexa](https://developer.amazon.com/ask)
 - [IOT](https://iotfuse.com/100-iot-open-source-tools-resources/)
 
